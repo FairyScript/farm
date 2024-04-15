@@ -1,5 +1,12 @@
 # @farmfe/core
 
+## 1.0.21
+
+### Patch Changes
+
+- 1509e1e: fix: format error message
+- 2d77310: Fix css @import url(./xxx) panic
+
 ## 1.0.20
 
 ### Patch Changes
